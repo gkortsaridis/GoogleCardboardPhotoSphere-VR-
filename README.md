@@ -9,4 +9,4 @@ Copyright (c) 2014 Google Inc.  All rights reserved.
 
 
 # GoogleCardboardPhotoSphere-VR-
-Google cardboard implementation of Photo Sphere Images
+Google cardboard implementation of Photo Sphere Images for Android Apps
