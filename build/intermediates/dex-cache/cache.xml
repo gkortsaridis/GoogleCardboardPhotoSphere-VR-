@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/yml/AndroidStudioProjects/cardboard-sphere-java/CardboardSample/libs/libprotobuf-java-2.3-nano.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c4d70e4409fdf6dc367b7db105751ab73bec766a">
+        <dex dex="/home/yml/AndroidStudioProjects/cardboard-sphere-java/CardboardSample/build/intermediates/pre-dexed/debug/libprotobuf-java-2.3-nano-a926e17ad478baadf90ca11c90eb0e6e0f0170fc.jar" />
+    </item>
+    <item
+        jar="/home/yml/AndroidStudioProjects/cardboard-sphere-java/CardboardSample/libs/cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9b31afa1cc6f509d0386a5281d11872dc079f950">
+        <dex dex="/home/yml/AndroidStudioProjects/cardboard-sphere-java/CardboardSample/build/intermediates/pre-dexed/debug/cardboard-2e7da9b5636dcae9e355eb87f56f8e9d07dacfad.jar" />
+    </item>
+    <item
+        jar="/home/yml/AndroidStudioProjects/cardboard-java/CardboardSample/libs/cardboard.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9b31afa1cc6f509d0386a5281d11872dc079f950">
+        <dex dex="/home/yml/AndroidStudioProjects/cardboard-java/CardboardSample/build/intermediates/pre-dexed/debug/cardboard-28ca871f9b7620275d4c3a655adcdd9ecc5c1020.jar" />
+    </item>
+    <item
+        jar="/home/yml/AndroidStudioProjects/cardboard-java/CardboardSample/libs/libprotobuf-java-2.3-nano.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c4d70e4409fdf6dc367b7db105751ab73bec766a">
+        <dex dex="/home/yml/AndroidStudioProjects/cardboard-java/CardboardSample/build/intermediates/pre-dexed/debug/libprotobuf-java-2.3-nano-ab65349b84a7376b2048294849dece12c6c8cd61.jar" />
+    </item>
+
+</items>
